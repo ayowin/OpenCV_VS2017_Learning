@@ -1,0 +1,2 @@
+# OpenCV_VS2017_Learning
+OpenCV的学习小demo，环境VS2017
